@@ -8,8 +8,7 @@ Projetos relacionados ao curso "Full-Stack Developer" da Mimo — coleção de a
 - Implementações que seguem boas práticas de modularização e reutilização de componentes.
 
 ## Badges
-- Linguagens: JavaScript (72.1%), CSS (24.1%), HTML (3.8%)
-- Licença: Aberta para estudos e contribuições
+- Licença: MIT (ver arquivo LICENSE)
 
 ## Sumário
 - [Visão geral](#visão-geral)
@@ -150,9 +149,9 @@ Contribuições são bem-vindas! Sugestões: correções, novos projetos, melhor
 - Para cada projeto, considere adicionar testes unitários com Jest ou Vitest.
 - Adicione pre-commit hooks (Husky) para garantir qualidade do código antes de commits.
 
-## Autor / Contato
-**Autor:** Giovanni Jorge  
-**Repositório:** [GiovanniJorge/full-stack-developer-mimo](https://github.com/GiovanniJorge/full-stack-developer-mimo)  
-**Curso:** Full-Stack Developer — Mimo
+## Licença
+Este repositório utiliza a licença MIT — consulte o arquivo `LICENSE` na raiz.
 
-Problemas, dúvidas ou sugestões podem ser abertas como issues no repositório ou enviadas via perfil do GitHub.
+## Autor / Contato
+Autor: Giovanni Jorge  
+Repositório: [GiovanniJorge/full-stack-developer-mimo](https://github.com/GiovanniJorge/full-stack-developer-mimo)  
