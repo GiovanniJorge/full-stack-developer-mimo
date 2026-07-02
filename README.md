@@ -10,6 +10,7 @@ Projetos relacionados ao curso "Full-Stack Developer" da Mimo — coleção de a
 
 ## Badges
 ![Licença](https://img.shields.io/github/license/GiovanniJorge/full-stack-developer-mimo?style=flat-square)
+![Projetos](https://img.shields.io/badge/quantidade-1%20projeto-blue?style=flat-square)
 
 ## Sumário
 - [Visão geral](#visão-geral)
@@ -26,24 +27,25 @@ Este repositório organiza projetos práticos de desenvolvimento full-stack que 
 ## Estrutura do repositório
 Top-level:
 ```text
-├── README.md                  # Documentação principal
+├── README.md                 # Documentação principal
+├── LICENSE
+├── .gitattributes
 └── projetos-finais/           # Projetos completos de aprendizado
-    ├── pixel-grid/            # Aplicação interativa de desenho em pixel grid (React)
-    │   ├── src/               # Componentes, gerenciamento de estado e estilos
-    │   │   ├── App.js
-    │   │   ├── App.css
-    │   │   ├── PixelGrid.jsx
-    │   │   ├── PixelGrid.css
-    │   │   ├── Toolbar.jsx
-    │   │   ├── Toolbar.css
-    │   │   ├── index.js
-    │   │   └── index.css
-    │   ├── public/            # Arquivos estáticos
-    │   ├── package.json       # Dependências e scripts do projeto
-    │   ├── server.js          # Backend opcional (Express.js)
-    │   ├── preview.png        # Imagem de preview do projeto
-    │   └── README.md          # Documentação específica do projeto
-    └── ...                    # Outros projetos adicionados conforme o progresso do curso
+    └── pixel-grid/            # Aplicação interativa de desenho em pixel grid (React)
+        ├── src/               # Componentes, gerenciamento de estado e estilos
+        │   ├── App.js
+        │   ├── App.css
+        │   ├── PixelGrid.jsx
+        │   ├── PixelGrid.css
+        │   ├── Toolbar.jsx
+        │   ├── Toolbar.css
+        │   ├── index.js
+        │   └── index.css
+        ├── public/            # Arquivos estáticos
+        ├── package.json       # Dependências e scripts do projeto
+        ├── server.js          # Backend opcional (Express.js)
+        ├── preview.png        # Imagem de preview do projeto
+        └── README.md          # Documentação específica do projeto
 ```
 
 ### Como se encaixa:
