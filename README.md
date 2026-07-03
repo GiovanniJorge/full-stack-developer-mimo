@@ -27,7 +27,7 @@ Este repositório organiza projetos práticos de desenvolvimento full-stack que 
 ## Estrutura do repositório
 Top-level:
 ```text
-├── README.md                 # Documentação principal
+├── README.md                  # Documentação principal
 ├── LICENSE
 ├── .gitattributes
 └── projetos-finais/           # Projetos completos de aprendizado
