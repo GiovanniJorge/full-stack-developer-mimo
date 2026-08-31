@@ -28,7 +28,13 @@ A proposta principal é aprender por meio de aplicações pequenas, funcionais e
 
 ## Visualização
 
+### Pixel Grid
+
 ![Preview do projeto Pixel Grid](projetos-finais/pixel-grid/preview.png)
+
+### Around the World
+
+![Preview do projeto Around the World](projetos-finais/around-the-world/preview.png)
 
 ## Arquitetura e Estrutura do Repositório
 
